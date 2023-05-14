@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('fonts/iconfont.eot?t=1584861002869'); /* IE9 */
+  src: url('fonts/iconfont.eot?t=1584861002869#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOMAAsAAAAACCAAAAM+AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqDYIMOATYCJAMQCwoABCAFhG0HSRv5BlGUzcki2VfYlOFepEQrdmcQxmB6QYHjm08EXAAAABRfAAAQD/3vx7rz3qCaJJkkMp5IJJNE0hIheQmURumcbrsh7/6tZctTm1AZf12+ojVV/ZXs3l7bnVyozWmUASHBoRj+d01zqggpoTDVRMLWlp/H1AGlyLY8VT9we5Mn5Ak/+Q+UcSCv1wHtdSAf0FOj0z9/g43/55jp0hosv20NOoWswNHeAEcJNKCMq6YjuxM7Qb1FdlcQlvk4gU4TPIPt7cMTmJLMbYG4MjqFqYxV1jSGdqEVOJviSYv28lA+gcfg9+OvJKYoWipz7+7lVgGrX/9Qn5qmEw9BNp4b/CUqFoEkLkDvkdEou2hUp3q/MctAqxTK1380DWNKAivr/IfXjqoIopVZ3w1WsLk6K5kjTXRjJoVv8pPvTNAOX+sN70zcmNp2Ifpl/dWV3CbFl08DOn55JfcfM3P6Tm+04h3DFEu2uhyMbJL1zH5alBeP+gg3unOptG+9Rtr8pqnTFbbj+1lfLu5aH+OUuaktmzO6tbDxXw7swLmLjLLAERnI65qIaAELMYi9MtE7BVy9hko4YCliIIW0UF//K2CjMr6fKIgQTVRYg+KzwncS7ICUiluIqBTS8vVvRMeDXo8YEB6cTgQT3+hOsV1A0d9gHYJlnsOhjqmbXr6KG06BA2iul7pIo/zVCEBTldfV37jO/TH/ntv/dsm1DH0W7QSRRkL7Gu0KvOynyVr2pKYwbZmK0pHqj0p3pkBBp078rGYY9DOGfwQk7tAuyDAUbcahajeJTOwitOiyAq3arUGnBTuXuwxhoyI7MO8dQej3AUWvD6j6fSET+w0tRv1Dq/4YhU57oblll+kwMzGmVKjA7BpNbjtlO2QmbDwifd6knFYElDPi3iQwDqJ8YYc64jEO9Bc6EVGo2La4jZ5GTWPRsa0ol6AUccMwVNA3BbltYcYWRlKCFFDmGjJyVkd5g8VM4eePEO1cI8U1XVXBM4T1zOwoFohaIHe0Xauua/lK74KWEEJBCrNaaBu5SWNlLeTgVRWSE4GyR9oZCkk/1VYbzK9vn/AUdDI/k1GiRkaLvDK9zGSY7aXfkJLZuJKNLgUAAAA=') format('woff2'),
+  url('fonts/iconfont.woff?t=1584861002869') format('woff'),
+  url('fonts/iconfont.ttf?t=1584861002869') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('fonts/iconfont.svg?t=1584861002869#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-list:before {
+  content: "\e71a";
+}
+
+.icon-arrow-left:before {
+  content: "\e6fe";
+}
+
+.icon-arrow-right:before {
+  content: "\e6fd";
+}
+
